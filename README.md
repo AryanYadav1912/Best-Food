@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+![Screenshot 2023-07-02 150356](https://github.com/AryanYadav1912/Best-Food/assets/102041624/1fee3ab8-b667-4b0a-a2cc-411ba81e8912)
+
+Run npm install to install the necessary dependencies This was a front-end react js & tailwind css project Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML Page. In this, I used a little javascript with an array filter to filter out specific food types and price categories.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
